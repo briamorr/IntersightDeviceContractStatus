@@ -1,4 +1,4 @@
-Example: List devices that are not covered or having an expiring soon contract status from Intersight
+<b>Example: List devices that are not covered or having an expiring soon contract status from Intersight<b>
 
 Pre-reqs:
 
@@ -8,7 +8,7 @@ Pre-reqs:
 
 Usage:
 
-Modify API key in securityadvisory.py to your API key
+Modify API key in contractstatus.py to your API key
 
 Modify SecretKey.txt to your API private key
 
