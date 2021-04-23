@@ -1,12 +1,12 @@
 <b>Example: List devices that are not covered or having an expiring soon contract status from Intersight</b>
 
-Pre-reqs:
+<u>Pre-reqs:</u>
 
 -Intersight API Keys
 
 -Python 3.x
 
-Usage:
+<u>Usage:</u>
 
 Modify API key in contractstatus.py to your API key
 
