@@ -55,7 +55,7 @@ def getExpiringOrInactiveContracts():
         except:
            print("")
 
-#Configure Intersight API token and start finding all devices affected by a security advisory        
+#Configure Intersight API token and start finding all devices with a non-active or expiring soon contract status        
 AUTH = IntersightAuth(
     secret_key_filename='SecretKey.txt',
     api_key_id='xxxx/xxxxx/xxx'
